@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+
+    <qresource prefix="/Matrix">
+        <file>Matrix/drop.js</file>
+        <file>Matrix/matrix.js</file>
+        <file>Matrix/matrix.qml</file>
+        <file>Matrix/qmldir</file>
+    </qresource>
+</RCC>
